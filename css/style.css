@@ -1344,3 +1344,15 @@
 {
 	padding: 20pt;
 }
+
+/*
+Custom Styles
+*/
+
+.preview-circle-img
+{
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+	border: 1px solid rgba(255, 255, 255, .5);
+}
